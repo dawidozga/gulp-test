@@ -1,0 +1,16 @@
+@import "settings";
+
+body {
+  background-color: $color-bg;
+  color: $color-text;
+}
+
+a {
+  color: $color-link;
+  display: flex;
+}
+
+p {
+  font-size: 14px;
+  color: grey;
+}
